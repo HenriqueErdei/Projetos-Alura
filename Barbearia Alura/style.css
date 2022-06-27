@@ -94,10 +94,6 @@ footer {
 	margin: 20px 0 0;
 }
 
-main {
-	
-}
-
 form {
 	margin: 40px 0;
 }
@@ -138,7 +134,8 @@ form label, form legend {
 }
 
 table {
-	margin: 20px 0 40px;
+	margin: auto;
+	width: 25%;
 }
 
 thead {
@@ -266,3 +263,16 @@ td, th {
 		width: 100%;
 	}
 }
+
+.centro {
+	text-align: center;
+}
+
+.input-padrao {
+	margin: 0 auto;
+}
+
+.tabelacentro {
+	padding-bottom: 2cm;
+}
+
